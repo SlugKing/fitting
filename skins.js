@@ -8,7 +8,7 @@ skins = {
 799: ['Paladin', 6, [['Decorated Paladin', 6], ['Founding Father', 20]]],
 800: ['Assassin', 7, [['Stealth', 7], ['Agent', 36]]],
 801: ['Necromancer', 8, [['Death Mage', 8]]],
-802: ['Huntress', 9, [['Amazonian', 9], ['Scarlett', 48]]],
+802: ['Huntress', 9, [['Amazonian', 9], ['Scarlett', 48],['Artemis', 51]]],
 803: ['Mystic', 10, [['Seer', 10]]],
 804: ['Trickster', 11, [['Loki', 11]]],
 805: ['Sorcerer', 12, [['Warlock', 12]]],
